@@ -1,0 +1,27 @@
+.menu{
+  background-color: #061539;
+  display: flex;
+  list-style: none;
+  height: 45px;
+  margin-top: 0;
+}
+
+.menu a{
+  text-decoration: none;
+  color: #A4EE11;
+}
+
+body{
+  width: 100%;
+}
+
+.liMenu{
+  text-align:center;
+  width: 20px;
+  height: 20px;
+  padding-top: 15px;
+}
+
+li{
+  flex: 1 0 25%;
+}
